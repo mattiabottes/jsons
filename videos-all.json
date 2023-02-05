@@ -1,28 +1,28 @@
-{
-				id: '2OTq15A5s0Y',
-				thumbnail: 'https://i.ytimg.com/vi/2OTq15A5s0Y/mqdefault.jpg',
-				user: {
-					name: 'Fireship',
-					subscribers: 129000,
-					profilePic:
-						'https://yt3.googleusercontent.com/ytc/AL5GRJUEZDXANi-9AD9yJzNTU1R0_cA1Brd6nLXLZaG31g=s900-c-k-c0x00ffffff-no-rj'
-				},
-				title: '7 better ways to create a React App',
-				date: '2023-02-03T17:20:00.000Z',
-				views: '148.649',
-				duration: 428
-			},
-			{
-				id: 'ga4bYYQTxq0',
-				thumbnail: 'https://i.ytimg.com/vi/ga4bYYQTxq0/mqdefault.jpg',
-				user: {
-					name: 'ItalianMusicLover',
-					subscribers: 3560,
-					profilePic:
-						'https://yt3.ggpht.com/ytc/AMLnZu_CX5rTTfSSHxGfXZxbrHgafX4TKqqWZRzBNX4uWQ=s900-c-k-c0x00ffffff-no-rj'
-				},
-				title: 'Fred Bongusto - Telefonate a Chella',
-				date: '2021-04-10T18:00:00.000Z',
-				views: '1400',
-				duration: 217
-			}
+[
+	{
+		"id": "2OTq15A5s0Y",
+		"thumbnail": "https://i.ytimg.com/vi/2OTq15A5s0Y/mqdefault.jpg",
+		"user": {
+			"name": "Fireship",
+			"subscribers": "129.000",
+			"profilePic": "https://yt3.googleusercontent.com/ytc/AL5GRJUEZDXANi-9AD9yJzNTU1R0_cA1Brd6nLXLZaG31g=s900-c-k-c0x00ffffff-no-rj"
+		},
+		"title": "7 better ways to create a React App",
+		"date": "2023-02-03T17:20:00.000Z",
+		"views": "148.649",
+		"duration": 428
+	},
+	{
+		"id": "ga4bYYQTxq0",
+		"thumbnail": "https://i.ytimg.com/vi/ga4bYYQTxq0/mqdefault.jpg",
+		"user": {
+			"name": "ItalianMusicLover",
+			"subscribers": "3560",
+			"profilePic": "https://yt3.ggpht.com/ytc/AMLnZu_CX5rTTfSSHxGfXZxbrHgafX4TKqqWZRzBNX4uWQ=s900-c-k-c0x00ffffff-no-rj"
+		},
+		"title": "Fred Bongusto - Telefonate a Chella",
+		"date": "2021-04-10T18:00:00.000Z",
+		"views": "1400",
+		"duration": 217
+	}
+]
